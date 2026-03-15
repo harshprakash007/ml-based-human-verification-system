@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel - Passive Human Verification",
+  "description": "An ML-based passive verification system that replaces CAPTCHA with behavioral analysis and browser entropy signals.",
+  "requestFramePermissions": []
+}
